@@ -38,38 +38,6 @@ The **Coffee Sales Dashboard** visualizes multi-year sales data of various coffe
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Power BI** or **Tableau** (Dashboard Visualization)
-- **Excel/CSV** (Data Source)
-- **Data Cleaning/Processing** tools
-
----
-
-## 🚀 Getting Started
-
-To use or customize the dashboard:
-
-1. Clone or download this repository.
-2. Open the dataset in Power BI or Tableau.
-3. Apply filters as needed to analyze:
-   - Sales trends
-   - Customer profiles
-   - Country-wise performance
-4. Customize the dashboard layout or add new insights if desired.
-
----
-
-## 📁 Folder Structure
-
-```
-📂 Coffee-Sales-Dashboard/
-├── 📊 dashboard.png             # Screenshot of the final dashboard
-├── 📄 README.md                 # Project overview and instructions
-└── 📂 data/                     # (Optional) Folder to place source CSV/Excel files
-```
-
----
 
 ## 📌 Use Case
 
